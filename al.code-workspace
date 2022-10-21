@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "HelloDemo"
+                    },
+                    {
+                        "path":  "BingMaps.PTE"
                     }
                 ],
     "settings":  {
